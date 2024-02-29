@@ -8,8 +8,7 @@
 I'm Šarūnas Ginčas from Lithuania.
 Currently unemployed and available at your earliest convenience.
 
-
-
+I believe I could contribute effectively to projects with a minimalistic user interface, where the complexity lies predominantly in the backend. In such instances, I am comfortable working on both the application code and infrastructure, aiming to offer my skills in a supportive role for seamless project development.
 
 ## ⚡ Technologies
 - Front-end development using **Yew, Tailwind**
