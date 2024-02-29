@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sarunasgincas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarunas-gincas-a91676211/)](https://www.linkedin.com/in/sarunas-gincas-a91676211/) 
 [![Gmail Badge](https://img.shields.io/badge/-sarunas.gincas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarunas.gincas@gmail.com)](mailto:sarunas.gincas@gmail.com)
 
-I'm experienced in Rust and available at your earliest convenience.
+I'm experienced in Rust and available for immediate employment.
 
 I believe I could contribute effectively to projects with a minimalistic user interface, where the complexity lies predominantly in the backend. 
 
