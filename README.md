@@ -14,7 +14,7 @@ Currently unemployed and available at your earliest convenience.
 ## ⚡ Technologies
 - Front-end development using **Yew, Tailwind**
 - Backend development using **Rust**
-- Data Persistence using **Relational Database Management Systems**
+- Data **Relational Database Management Systems**
 - Cloud architecture using **AWS, AWS CDK**
 
 ## Some of my projects
