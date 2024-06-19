@@ -10,7 +10,7 @@ I believe I could contribute effectively to projects with a minimalistic user in
 In such instances, I am comfortable working on both the application code and infrastructure, aiming to offer my skills in a supportive role for seamless project development.
 
 ## ⚡ Technologies
-- Front-end development using **Yew**
+- Frontend development using **Yew**
 - Backend development using **Rust**
 - Data using **Relational Database Management Systems**
 - Cloud architecture using **AWS, AWS CDK, AWS SDK**
