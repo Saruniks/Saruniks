@@ -1,4 +1,4 @@
-<h2> Hi, I'm Šarūnas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
+<h2> Hi, I'm Šarūnas </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-sarunasgincas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarunas-gincas-a91676211/)](https://www.linkedin.com/in/sarunas-gincas-a91676211/) 
 [![Gmail Badge](https://img.shields.io/badge/-sarunas.gincas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarunas.gincas@gmail.com)](mailto:sarunas.gincas@gmail.com)
