@@ -19,4 +19,4 @@ I believe I could contribute effectively to projects where the complexity lies p
 
 ## Open source contributions
 - reqwest [#1295](https://github.com/seanmonstar/reqwest/issues/1295)
-..
+- ..  
