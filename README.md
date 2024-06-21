@@ -5,8 +5,6 @@
 
 Software Engineer experienced in Rust and available for employment.
 
-I believe I could contribute effectively to projects where the complexity lies predominantly in the backend. 
-
 ## ⚡ Technologies
 - Frontend development using **Yew**
 - Backend development using **Rust**
