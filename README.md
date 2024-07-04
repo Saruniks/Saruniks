@@ -8,8 +8,8 @@ Software Engineer experienced in Rust and available for employment.
 ## ⚡ Technologies
 - Frontend development using **Yew**
 - Backend development using **Rust**
-- Data using **Relational Database Management Systems**
-- Cloud architecture using **AWS, AWS CDK, AWS SDK**
+- Data using **PostgreSQL**
+- Cloud architecture using **AWS CDK, AWS SDK**
 
 ## Some of my projects
 - [Rust Full Stack Application](https://github.com/Saruniks/cdk-rust-full-stack-app)
