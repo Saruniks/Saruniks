@@ -8,7 +8,7 @@ Software Engineer experienced in Rust and available for employment.
 ## ⚡ Technologies
 - Frontend development using **Yew**
 - Backend development using **Rust**
-- Data using **PostgreSQL**
+- Data using **PostgreSQL, diesel-rs**
 - Cloud architecture using **AWS CDK, AWS SDK**
 
 ## Some of my projects
