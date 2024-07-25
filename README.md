@@ -17,4 +17,4 @@ Software Engineer experienced in Rust and available for employment.
 
 ## Open source contributions
 - reqwest [#1295](https://github.com/seanmonstar/reqwest/issues/1295)
-- sccache [#2161](https://github.com/mozilla/sccache/issues/2161) [#2164](https://github.com/mozilla/sccache/issues/2164)
+- sccache [#2161](https://github.com/mozilla/sccache/issues/2161) [#2164](https://github.com/mozilla/sccache/issues/2164)(in progress)
