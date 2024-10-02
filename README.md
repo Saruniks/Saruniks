@@ -11,7 +11,12 @@ Software Engineer experienced in Rust and available for employment.
 - Data using **PostgreSQL**, **diesel-rs**, **DynamoDB**
 - Cloud architecture using **AWS CDK, AWS SDK**
 
-## Some of my projects
+## WIP projects
+- [Managed sccache-dist](https://vendenic.link)
+- [Yew component library fork](https://fallout-ui.link/)
+- [My Blog](https://sarunasgincas.com/)
+
+## Past projects
 - [Rust Full Stack Application](https://github.com/Saruniks/cdk-rust-full-stack-app)
 - [Distributed sccache IaC](https://github.com/Saruniks/sccache-dist-cdktf)
 
