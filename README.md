@@ -3,12 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sarunasgincas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarunas-gincas-a91676211/)](https://www.linkedin.com/in/sarunas-gincas-a91676211/) 
 [![Gmail Badge](https://img.shields.io/badge/-sarunas.gincas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarunas.gincas@gmail.com)](mailto:sarunas.gincas@gmail.com)
 
-Software Engineer experienced in Rust.
+Rust.
 
 ## ⚡ Technologies
 - Frontend development using **React**, **Yew**, **Tailwind CSS**
 - Backend development using **Rust**, **gRPC**, **REST API**, **clap-rs**
-- Data using **PostgreSQL**, **diesel-rs**, **DynamoDB**
+- Data using **PostgreSQL**, **diesel-rs**
 - Cloud architecture using **AWS CDK, AWS SDK**
 
 ## WIP projects
