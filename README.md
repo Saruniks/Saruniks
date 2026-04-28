@@ -6,4 +6,4 @@
 
 ![AI Workflow — Anthony GG](https://github.com/user-attachments/assets/58a09d1f-3a35-4537-8bd7-a2f18bb0e28b)
 
-> ⚠️ **We are not 20× more productive with AI.**
+> 💡 **We are ~~20~~ 4? times more productive with AI.**
