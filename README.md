@@ -7,7 +7,7 @@ infra as one codebase. I collapse complexity rather than add it - retired a
 Rust/DSQL stack and a Dockerized frontend for a leaner all-TypeScript, static-SPA
 architecture. Currently building **real-money market-making tooling** for Polymarket.
 
-- 🤖 **AI-powered** - Claude (via Amazon Bedrock, IAM-auth) does natural-language market discovery and LLM-in-the-loop infra triage.
+- 🤖 **AI-powered** - Claude (via Amazon Bedrock) does natural-language market discovery and LLM-in-the-loop infra triage.
 - 👁 **Observable** - CloudWatch dashboard + alarms, X-Ray/Lambda Insights, and an AI pipeline that summarizes health to Telegram.
 - 🧱 **Serverless-first** - static SPA on S3/CloudFront; EventBridge-scheduled Lambdas over a single small RDS Postgres (the one always-on piece, migrated off Aurora DSQL).
 
