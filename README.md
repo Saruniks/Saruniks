@@ -32,21 +32,21 @@ Claude-powered market discovery.
 ---
 
 <details>
-<summary><sub>Previously (Rust)</sub></summary>
+<summary><b>Previously (Rust)</b></summary>
 
-<sub>
+<br>
 
-Frontend with **Yew** / **Tailwind**, backend in **Rust** (**gRPC**, REST, **clap-rs**),
-**PostgreSQL** + **diesel-rs**, infra on **AWS CDK**.
+Frontend with **Yew** / **Tailwind**, backend in **Rust** (**gRPC**, REST, **clap-rs**), **PostgreSQL** + **diesel-rs**, infra on **AWS CDK**.
 
-Past projects - [Rust Full Stack App](https://github.com/Saruniks/cdk-rust-full-stack-app) ·
-[Distributed sccache IaC](https://github.com/Saruniks/sccache-dist-cdktf)
+**Past projects**
 
-Extremely minimal open source - reqwest [#1295](https://github.com/seanmonstar/reqwest/issues/1295) ·
-sccache [#2161](https://github.com/mozilla/sccache/issues/2161)
-~~[#2164](https://github.com/mozilla/sccache/issues/2164)~~
-~~[#2241](https://github.com/mozilla/sccache/pull/2241)~~
+- [Rust Full Stack App](https://github.com/Saruniks/cdk-rust-full-stack-app)
+- [Distributed sccache IaC](https://github.com/Saruniks/sccache-dist-cdktf)
 
-</sub>
+**Open source contributions**
+
+- reqwest [#1295](https://github.com/seanmonstar/reqwest/issues/1295)
+- sccache [#2161](https://github.com/mozilla/sccache/issues/2161) · ~~[#2164](https://github.com/mozilla/sccache/issues/2164)~~ · ~~[#2241](https://github.com/mozilla/sccache/pull/2241)~~
 
 </details>
+
