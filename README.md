@@ -46,7 +46,7 @@ Frontend with **Yew** / **Tailwind**, backend in **Rust** (**gRPC**, REST, **cla
 **Past projects**
 
 - [Slop Rust Full Stack App + AWS CDK for CI/CD](https://github.com/Saruniks/cdk-rust-full-stack-app)
-- [Distributed sccache HashiCorp Packer + IaC](https://github.com/Saruniks/sccache-dist-cdktf)
+- [Distributed sccache HashiCorp Packer + CDK for Terraform IaC](https://github.com/Saruniks/sccache-dist-cdktf)
 
 **Open source contributions**
 
