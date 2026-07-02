@@ -32,7 +32,7 @@ Claude-powered market discovery.
 ---
 
 <details>
-<sub><summary>Previously (Rust)</summary></sub>
+<summary><sub>Previously (Rust)</sub></summary>
 
 <sub>
 
@@ -42,7 +42,7 @@ Frontend with **Yew** / **Tailwind**, backend in **Rust** (**gRPC**, REST, **cla
 Past projects - [Rust Full Stack App](https://github.com/Saruniks/cdk-rust-full-stack-app) ·
 [Distributed sccache IaC](https://github.com/Saruniks/sccache-dist-cdktf)
 
-Extremelly Minimal Open source - reqwest [#1295](https://github.com/seanmonstar/reqwest/issues/1295) ·
+Extremely minimal open source - reqwest [#1295](https://github.com/seanmonstar/reqwest/issues/1295) ·
 sccache [#2161](https://github.com/mozilla/sccache/issues/2161)
 ~~[#2164](https://github.com/mozilla/sccache/issues/2164)~~
 ~~[#2241](https://github.com/mozilla/sccache/pull/2241)~~
