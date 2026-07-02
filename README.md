@@ -24,8 +24,7 @@ architecture. Currently building **real-money market-making tooling** for Polyma
 
 ### 🤖 AI market discovery - build views from a prompt or a trader's wallet
 
-<!-- TODO: paste the "Create a new view" screenshot here (drag it into the GitHub editor to generate the URL) -->
-<img width="460" alt="Create-a-new-view modal: paste a trader's address and Claude groups their markets into themed views" src="PASTE_UPLOADED_IMAGE_URL_HERE" />
+<img width="242" height="413" alt="download" src="https://github.com/user-attachments/assets/f335ded3-b440-49f4-a791-6bd249f9fa57" />
 
 ### 💧 Liquidity Rewards - markets paying for liquidity provision
 
