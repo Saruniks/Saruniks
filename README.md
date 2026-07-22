@@ -5,7 +5,7 @@
 Trying out **serverless-first**: TypeScript end-to-end - SPA, Lambdas, and CDK
 infra as one codebase. I collapse complexity rather than add it - retired a
 Rust/DSQL stack and a Dockerized frontend for a leaner all-TypeScript, static-SPA
-architecture. Currently building **real-money market-making tooling** for Polymarket.
+architecture. Currently building **real-money market-making tooling** for the use in prediction markets.
 
 - 🤖 **AI-powered** - Claude (via Amazon Bedrock) does natural-language market discovery and LLM-in-the-loop infra triage.
 - 👁 **Observable** - CloudWatch dashboard + alarms, X-Ray/Lambda Insights, and an AI pipeline that summarizes health to Telegram.
